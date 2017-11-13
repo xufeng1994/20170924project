@@ -1,7 +1,7 @@
 let axios = require('axios');
 
 let assert = require('assert')
-let baseurl = " http://192.168.198.129:3000/api/v1/"
+let baseurl = " http://118.31.19.120:3000/api/v1/"
 
 describe("api test",function(){
     this.timeout(60* 10000)
